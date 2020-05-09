@@ -1,0 +1,30 @@
+AlexaRank,Website,HashStepTwo,HashStepThree,HashStepFour,InformedUsers,MinerPoolAddress,NetworkProtocol,SignatureFunctionName,SignatureConstants,PageFound
+402,http://cinecalidad.to,Yes,Yes,No,No,wss://www.enaure.co:8181/,WebSocket,_hash_cn,262144,Landing
+9904,http://thepiratebayorg.org,Yes,Yes,No,No,wss://cdn-103.statdynamic.com/filter,WebSocket,_loot_cn,262144,Subpage
+11332,http://newalbumreleases.net,Yes,Yes,No,No,wss://s3.tercabilis.info/,WebSocket,_mLoop,"524288, 262144",Landing
+12263,http://pshntf.com,Yes,Yes,No,No,wss://ethereum-pocket.eu:8585/,WebSocket,_hash_cn,262144,Landing
+12413,http://baypirateproxy.org,Yes,Yes,No,No,wss://cn1.thepiratebay-proxylist.se/filter,WebSocket,_loot_cn,262144,Subpage
+12448,http://thepiratebay.se.net,Yes,Yes,No,Yes,wss://cdn-102.statdynamic.com/filter,WebSocket,_loot_cn,262144,Subpage
+13564,http://uktpb.net,Yes,Yes,No,No,wss://cdn-103.statdynamic.com/filter,WebSocket,_loot_cn,262144,Subpage
+13663,http://pebx.pl,Yes,Yes,No,No,wss://cdn-101.statdynamic.com/filter,WebSocket,_loot_cn,262144,Subpage
+14948,http://revdl.com,Yes,Yes,No,No,wss://s3.tercabilis.info/,WebSocket,_mLoop,"524288, 262144",Landing
+15113,http://cinemaqualidade.to,Yes,Yes,No,No,wss://www.enaure.co:8181/,WebSocket,_hash_cn,262144,Landing
+15831,http://torrentrapid.com,Yes,Yes,No,No,wss://s3.tercabilis.info/,WebSocket,_mLoop,"524288, 262144",Landing
+16202,http://primejailbait.com,Yes,Yes,Yes,No,wss://ws015.coinhive.com/proxy,WebSocket,_cryptonight_hash_variant_2,524288262144,Landing
+16701,http://alltube.pl,Yes,Yes,No,No,wss://ethereum-pocket.eu:8585/,WebSocket,_hash_cn,262144,Landing
+21716,http://pirateiro.com,Yes,Yes,Yes,Yes,wss://ws028.coinhive.com/proxy,WebSocket,_cryptonight_hash_variant_2,"524288, 262144",Subpage
+23877,http://garaanews.com,Yes,Yes,Yes,No,wss://ws031.coinhive.com/proxy,WebSocket,_cryptonight_hash_variant_2,"524288, 262144",Subpage
+25676,http://ekinomaniak.tv,Yes,Yes,No,No,wss://s3.tercabilis.info/,WebSocket,_mLoop,"524288, 262144",Landing
+26955,http://crisanimex.com,Yes,Yes,No,No,wss://s3.tercabilis.info/,WebSocket,_mLoop,"524288, 262144",Landing
+27343,http://thepirate.one,Yes,Yes,No,No,wss://cn2.thepiratebay-proxylist.se/filter,WebSocket,_loot_cn,262144,Subpage
+28147,http://piratebays.fi,Yes,Yes,No,No,wss://cdn-102.statdynamic.com/filter,WebSocket,_loot_cn,262144,Subpage
+29126,http://proxyonetpb.pet,Yes,Yes,No,No,wss://cn1.thepiratebay-proxylist.se/filter,WebSocket,_loot_cn,262144,Subpage
+29638,http://oipeirates.tv,Yes,Yes,No,No,wss://s2.tercabilis.info/,WebSocket,_mLoop,"524288, 262144",Landing
+32107,http://piratebays.be,Yes,Yes,No,No,wss://cdn-102.statdynamic.com/filter,WebSocket,_loot_cn,262144,Landing
+33525,http://mispelisyseries.com,Yes,Yes,Yes,No,wss://ws023.coinhive.com/proxy,WebSocket,_cryptonight_hash_variant_2,"524288, 262144",Landing
+529331,http://vsisumy.com,Yes,Yes,No,No,wss://gninimorenom.thefashiontip.com:8183/,WebSocket,_k,262144,Landing
+515977,http://wastedamateurs.com,Yes,Yes,No,No,wss://webmine.cz/feed,WebSocket,_cryptonight_hash,524288,Landing
+495671,http://x-inside.ru,Yes,Yes,No,No,wss://ws1.bmst.pw/ws,WebSocket,_p,524288,Landing
+914172,http://zahedi-ali.ir,Yes,Yes,Yes,No,wss://ws001.coinhive.com/proxy,WebSocket,_cryptonight_hash_variant_2,524288262144,Landing
+109047,http://zirnevisha9.com,Yes,Yes,Yes,No,wss://ws009.coinhive.com/proxy,WebSocket,_cryptonight_hash_variant_2,524288262144,Landing
+849384,http://zonacaleta.com,Yes,Yes,Yes,No,wss://ws009.coinhive.com/proxy,WebSocket,_cryptonight_hash_variant_2,524288262144,Subpage

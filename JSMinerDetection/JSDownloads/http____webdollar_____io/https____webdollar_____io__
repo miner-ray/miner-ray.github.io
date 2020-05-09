@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>CryptoCurrency of the future</title>
+
+    <meta charset="utf-8">
+    <meta name="description" content="WebDollar is easy to use Cryptocurrency, Wallet in the Browser with modern hybrid Mining Proof of Work and Proof of Stake. Own blockchain. No installs, no downloads.">
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+    <meta name="keywords" content="cryptocurrency, blockchain, browser mining, bitcoin alternative, future of cryptocurrency, cryptocoin">
+    <meta http-equiv="content-language" content="en-US" />
+    <meta name="language" content="en-US" />
+    <meta name="copyright" content="WebDollar">
+    <meta name="theme-color" content="#000000" />
+
+    <meta property="fb:app_id" content="513540245504678" />
+    <meta property="fb:app_id" content="51vezi3540245504678" />
+    <meta property="og:type"   content="article" />
+
+    <meta property="og:url"    content="https://WebDollar.io" />
+
+    <meta property="og:title"  content="WebDollar - CryptoCurrency of the internet" />
+    <meta property="og:description"  content="WebDollar is a cryptocurrency native to the browser. No installs or downloads. Mining and Wallets are incorporated in your browser. WebDollar is aiming for mass adoption" />
+
+    <meta name="google-site-verification" content="H1d-mGDiBeFhUDV_cm-gyxfs1w6J9hYf0uuDCoYbVGw" />
+    <meta name="google-site-verification" content="9oJUXypewXWn4zVhUMECHc1a-FPaJkPf6Yw7TBRKX6U" />
+    <meta name="google-site-verification" content="6iS7Zzeq9FI1cneuWsA6XNT_APAdQAcDqM5Qg3pWLBM" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@WebDollar_io" />
+    <meta name="twitter:title" content="WebDollar - CryptoCurrency of the internet" />
+    <meta name="twitter:description" content="WebDollar is a cryptocurrency native to the browser. No installs or downloads. Mining and Wallets are incorporated in your browser. WebDollar is aiming for mass adoption" />
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta property="og:image"  content="http://webdollar.io/public/assets/images/WebDollar-Landing-image.png"  /> <meta property="og:image:alt" content="WebDollar - Currency of Internet" /><meta property="twitter:image"  content="http://webdollar.io/public/assets/images/WebDollar-Landing-image.png" /><meta property="twitter:image:alt" content="WebDollar - Currency of the Internet"/>
+
+    <script type="application/ld+json">
+      {"@context":"http://schema.org","@type":"WebSite","name":"WebDollar","alternateName":"WebDollar Currency of the Internet","url":"http://webdollar.io/","potentialAction":{"@type":"SearchAction","query-input":"required"}}
+    </script>
+
+    <script type="application/ld+json">
+      {"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://webolldar.io/","name":"Home","image":"http://webdollar.io/public/WebDollar-logo.jpg"}}]}
+    </script>
+
+    <link rel="apple-touch-icon" sizes="120x120" href="/public/assets/images/logo-120.png">
+    <link rel="shortcut icon" sizes="48x48" href="/public/assets/images/favicon.ico">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="stylesheet" type="text/css" href="/public/assets/styles/stylesheet.css?v0.4" id="WebdollarFont"/>
+    <link rel="stylesheet" type="text/css" href="/public/assets/styles/mobile.css?v0.4" />
+    <link rel="stylesheet" type="text/css" href="/public/assets/styles/animations.css?v0.4" />
+    <link rel="stylesheet" type="text/css" href="/public/assets/styles/icomoon/style.css?v0.4" />
+
+    <script id="protocolBundle" type="text/javascript" src="/public/WebDollar-dist/WebDollar-Protocol-bundle.js?v674"> </script>
+    <script id="UIBundle" type="text/javascript" src="/public/WebDollar-dist/WebDollar-User-Interface-bundle.js?v674"> </script>
+    <noscript>To run this application, JavaScript is required to be enabled.</noscript>
+  <link href="/0.208cf128498f5856662e.js" rel="preload" as="script"><link href="/1.6f003ab258c1254acb2d.js" rel="preload" as="script"><link href="/10.90a62811447c5cd40fef.js" rel="preload" as="script"><link href="/11.8e774d667f7ab789f427.js" rel="preload" as="script"><link href="/12.794da46f2e434906962d.js" rel="preload" as="script"><link href="/13.b1086aaf86aa55db91d8.js" rel="preload" as="script"><link href="/14.da1d3c93c797db10b1e5.js" rel="preload" as="script"><link href="/15.dd450f5e6671dba4ecea.js" rel="preload" as="script"><link href="/2.409c4789185c10cd88d6.js" rel="preload" as="script"><link href="/3.7e31f45f941150118421.js" rel="preload" as="script"><link href="/4.84546c222b0027fa68e6.js" rel="preload" as="script"><link href="/5.0911f301097731cd58cb.js" rel="preload" as="script"><link href="/6.0cf809216310f8ff45df.js" rel="preload" as="script"><link href="/7.ed1f0e7bace74cd03197.js" rel="preload" as="script"><link href="/8.551aaab65118cf076d91.js" rel="preload" as="script"><link href="/9.62b7026fa2b72898006a.js" rel="preload" as="script"></head>
+
+  <body class="fixed-sidebar fixed-nav fixed-nav-basic" style="background-color: #2f4050 !important;">
+    <div id="app" data-server-rendered="false"></div>
+    <!--vue-ssr-outlet-->
+  <script type="text/javascript" src="/app.ec3ff2be5612afd7e25e.js"></script></body>
+
+  <!-- GOOGLE ANALYTICS -->
+  <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-111361330-1', 'auto');
+      ga('send', 'pageview');
+  </script>
+
+  <!-- Hotjar Tracking Code for https://www.webdollar.io -->
+  <script>
+      (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:726326,hjsv:6};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+</html>

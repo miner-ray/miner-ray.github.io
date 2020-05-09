@@ -1,0 +1,31 @@
+{
+  "name": "jsminerdetection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "npm run build:live",
+    "build": "tsc -p .",
+    "dev": "npm run build && node --max-old-space-size=4192 lib/index.js",
+    "build:live": "nodemon --watch 'src/**/*.ts' --exec ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.7.5",
+    "@types/puppeteer": "^1.19.1",
+    "nodemon": "^1.19.2",
+    "ts-node": "^8.4.1"
+  },
+  "dependencies": {
+    "@types/esprima": "^4.0.2",
+    "@types/esprima-walk": "^0.1.1",
+    "@types/uuid": "^3.4.5",
+    "esprima": "^4.0.1",
+    "esprima-walk": "^0.1.0",
+    "puppeteer": "^1.20.0",
+    "typescript": "^3.6.3",
+    "uuid": "^3.3.3",
+    "yargs": "^14.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "wasmdumpreader",
+  "version": "1.0.0",
+  "description": "Converts .wasm files to .wat and runs the WasmRay Parser on the output",
+  "main": "wasmDumpReader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  }
+}
