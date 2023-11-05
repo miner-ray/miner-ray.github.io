@@ -1,6 +1,7 @@
 # [MinerRay Source Code](https://github.com/miner-ray/miner-ray.github.io)
 
-[Paper](https://alan-romano.github.io/MinerRay_Semantics_Aware_Analysis_for_Ever_Evolving_Cryptojacking_Detection.pdf)
+[Paper: MinerRay: Semantics-Aware Analysis for Ever-Evolving
+Cryptojacking Detection](https://alan-romano.github.io/MinerRay_Semantics_Aware_Analysis_for_Ever_Evolving_Cryptojacking_Detection.pdf)
 
 
 MinerRay is a tool to detect hidden in-browser crypto mining scripts by analyzing  WebAssembly files for known hashing behavior.
